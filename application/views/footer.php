@@ -72,7 +72,7 @@
    
     <div class="text-center tc" style="background-color: #00416C;padding: 18px 0px;">
       <div class="footer container" style="color: white; font-size: 12px;">
-        Copyright © <span class="current-year">2023 Ajay Diam</span>, All rights reserved.
+        Copyright © <span class="current-year">2025 Ajay Diam</span>, All rights reserved.
       </div>
     </div>
     

@@ -27,9 +27,30 @@
     right: -3em;
     background: none;
   }
+  .section_desk1 {
+    padding-top: 0px;
+    margin-top: 68px; 
+    padding-bottom: 20px;
+    min-height: 600px;
+}
 </style>
 
-<section class="section_desk section_mob">
+<section class="section_desk1 section_mob">
+  <div class="  " style="padding:20px 0px;">
+    <div class="row">
+      <div class="col-md-12">
+     
+                <video width="100%" style="height:100vh;"  autoplay muted playsinline loop>
+                  <source src="<?php echo base_url(); ?>assets/img/csr.mp4" type="video/mp4">
+                </video>
+           
+
+      </div>
+
+
+
+    </div>
+  </div>
   <div class="process_mob">
 
     <div class="container container2 d-flex justify-content-center " style="flex-direction: column;align-items: center;">
@@ -90,11 +111,7 @@
               <li class="splide__slide">
                 <img src="<?php echo base_url(); ?>assets/img/csr/1.png" alt="" />
               </li>
-              <li class="splide__slide">
-                <video width="100%" height="200" controls playsinline>
-                  <source src="<?php echo base_url(); ?>assets/img/csr.mp4" type="video/mp4">
-                </video>
-              </li>
+              
               <li class="splide__slide">
                 <img src="<?php echo base_url(); ?>assets/img/csr/2.png" alt="" />
 
@@ -128,7 +145,7 @@
           <div class="splide__track">
             <ul class="splide__list">
               <li class="splide__slide">
-              <video width="100%" height="200" controls playsinline>
+                <video width="100%" height="200" controls playsinline>
                   <source src="<?php echo base_url(); ?>assets/img/csr.mp4" type="video/mp4">
                 </video>
               </li>
