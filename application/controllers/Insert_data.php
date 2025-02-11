@@ -68,6 +68,8 @@ class Insert_data extends CI_Controller {
             $message = $message . $key . '- ' . $value . '<br>';
         }
 
+
+
         $this->email->set_newline("\r\n");
         $this->email->from($from);
         $this->email->to($to);
