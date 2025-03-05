@@ -27,32 +27,34 @@
     right: -3em;
     background: none;
   }
+
   .section_desk1 {
     padding-top: 0px;
-    margin-top: 68px; 
+    margin-top: 68px;
     padding-bottom: 20px;
     min-height: 600px;
-}
+  }
+  .vhig{
+    height:100vh;
+  }
+  @media (max-width:768px){
+    .vhig{
+    height:auto;
+  }
+  }
 </style>
 
 <section class="section_desk1 section_mob">
   <div class="  " style="padding:20px 0px;">
     <div class="row">
       <div class="col-md-12">
-     
-                <video width="100%" style="height:100vh;"  autoplay muted playsinline loop>
-                  <source src="<?php echo base_url(); ?>assets/img/csr.mp4" type="video/mp4">
-                </video>
-           
-
+        <video width="100%" class="vhig" style="" autoplay muted playsinline loop>
+          <source src="<?php echo base_url(); ?>assets/img/vvv.mp4" type="video/mp4">
+        </video>
       </div>
-
-
-
     </div>
   </div>
   <div class="process_mob">
-
     <div class="container container2 d-flex justify-content-center " style="flex-direction: column;align-items: center;">
       <div class="row bg2">
         <div class="col-md-5 d-flex justify-content-center text-center">
@@ -60,16 +62,12 @@
             Corporate & Social
             Responsibility</h4>
         </div>
-
-
-
         <div class="col-md-7 d-flex justify-content-center p-0">
           <div class="">
             <img src="assets/img/csr/m.png" width="100%" />
           </div>
         </div>
       </div>
-
       <div class="para ">
         <p>
           Since inception the company has taken its CS responsibility to the community
@@ -86,7 +84,6 @@
     <div class="row">
       <div class="col-md-6 process_desk" style="max-width: 523px">
         <img src="assets/img/csr/m.png" style="position: relative; width: 100%" />
-
       </div>
       <div class="col-md-6 process_desk">
         <h1 class="heading-main">Corporate & Social
@@ -100,42 +97,39 @@
             for worthy causes to support.
           </p>
         </div>
-
       </div>
       <h1 class="heading-main text-center mt-5">Gallery</h1>
       <div class="gallery process_desk container" style="margin-top: 30px;padding:20px 50px;">
-
         <div class="splide" id="mainSlider" role="group" aria-label="Splide Basic HTML Example">
           <div class="splide__track">
             <ul class="splide__list">
               <li class="splide__slide">
-                <img src="<?php echo base_url(); ?>assets/img/csr/1.png" alt="" />
+                <img src="<?php echo base_url(); ?>assets/img/csr/11.jpg" alt="" width="100%" />
               </li>
-              
               <li class="splide__slide">
-                <img src="<?php echo base_url(); ?>assets/img/csr/2.png" alt="" />
-
+                <img src="<?php echo base_url(); ?>assets/img/csr/12.jpg" alt=""width="100%" />
               </li>
-
               <li class="splide__slide">
-                <img src="<?php echo base_url(); ?>assets/img/csr/3.png" alt="" />
+                <img src="<?php echo base_url(); ?>assets/img/csr/13.jpg" alt=""width="100%" />
               </li>
-
               <li class="splide__slide">
                 <img src="<?php echo base_url(); ?>assets/img/csr/1.png" alt="" />
-
               </li>
               <li class="splide__slide">
                 <img src="<?php echo base_url(); ?>assets/img/csr/2.png" alt="" />
-
               </li>
               <li class="splide__slide">
                 <img src="<?php echo base_url(); ?>assets/img/csr/3.png" alt="" />
-
               </li>
-
-
-
+              <li class="splide__slide">
+                <img src="<?php echo base_url(); ?>assets/img/csr/1.png" alt="" />
+              </li>
+              <li class="splide__slide">
+                <img src="<?php echo base_url(); ?>assets/img/csr/2.png" alt="" />
+              </li>
+              <li class="splide__slide">
+                <img src="<?php echo base_url(); ?>assets/img/csr/3.png" alt="" />
+              </li>
             </ul>
           </div>
         </div>
@@ -154,9 +148,7 @@
               </li>
               <li class="splide__slide">
                 <img src="<?php echo base_url(); ?>assets/img/csr/2.png" class="d-flex mx-auto" alt="" />
-
               </li>
-
               <li class="splide__slide">
                 <img src="<?php echo base_url(); ?>assets/img/csr/3.png" class="d-flex mx-auto" alt="" />
               </li>
@@ -165,9 +157,7 @@
               </li>
               <li class="splide__slide">
                 <img src="<?php echo base_url(); ?>assets/img/csr/2.png" class="d-flex mx-auto" alt="" />
-
               </li>
-
               <li class="splide__slide">
                 <img src="<?php echo base_url(); ?>assets/img/csr/3.png" class="d-flex mx-auto" alt="" />
               </li>
@@ -176,9 +166,7 @@
               </li>
               <li class="splide__slide">
                 <img src="<?php echo base_url(); ?>assets/img/csr/2.png" class="d-flex mx-auto" alt="" />
-
               </li>
-
               <li class="splide__slide">
                 <img src="<?php echo base_url(); ?>assets/img/csr/3.png" class="d-flex mx-auto" alt="" />
               </li>
@@ -186,7 +174,6 @@
           </div>
         </div>
       </div>
-
     </div>
   </div>
 </section>

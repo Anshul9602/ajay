@@ -35,11 +35,10 @@
                     <h1 class="heading-main mt-2 " style="font-size: 25px;margin-left: 10px;font-weight: 500;    margin-bottom: 1px !important;">I)</h1>
                 </div>
                 <div class="col-md-10 p-0">
-                    <h1 class="heading-main mt-2 pt-0" style="font-size: 25px;font-weight: 500;    margin-top: 2px !important;"> Hongkong International
-                        Jewellery Show</h1>
+                    <h1 class="heading-main mt-2 pt-0" style="font-size: 25px;font-weight: 500;    margin-top: 2px !important;"> HKTDC Hong Kong International Jewellery Show</h1>
 
-                    <p class="mt-3 mb-5">1 - 5 March<br>
-                        Address: Hong Kong<br>
+                    <p class="mt-3 mb-5"> 4-8 March 2025<br>
+                        Address: HKCEC<br>
                         Contact: Mr Jack / Mr Chan<br>
                         info@ajaydiamltd.com<br>
                         Tel: (+852) 23167662 &nbsp;&nbsp;&nbsp; Fax: (+852) 23167611</p>
@@ -54,9 +53,9 @@
                     <h1 class="heading-main mt-2 mt_mob1" style="font-size: 25px;font-weight: 500;">Jewellery & Gem World
                        (JGW)</h1>
 
-                    <p class="mt-3 mb-5">18 - 22 September<br>
-                        Address: Asia World Expo, Hong Kong <br>
-                        Booth No: AWE: 7K-02 <br>
+                    <p class="mt-3 mb-5">15-19 September 2025<br>
+                        Address: AWE <br>
+                        
                         Contact: Mr Jack / Mr Chan<br>
                         info@ajaydiamltd.com<br>
                         Tel: (+852) 23167662 &nbsp;&nbsp;&nbsp; Fax: (+852) 23167611</p>

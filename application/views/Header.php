@@ -40,7 +40,20 @@
       href="<?php echo base_url(); ?>/assets/vendor/swiper/swiper-bundle.min.css"
       rel="stylesheet"
     />
-   
+   <!-- Start of ManagePlus Embed Code -->
+  <script id="manageplus" crossorigin="anonymous">
+        (function () {
+          var e = "https://app.manageplus.io/script.js",
+            t = document.createElement("script");
+          (t.src = e),
+          (t.id = "JYDM_741"),
+            (t.onload = function () {
+              trackVisit("JYDM_741");
+            }),
+            document.head.appendChild(t);
+        })();
+      </script>
+
     <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js"> </script>
     <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide-extension-auto-scroll@0.5.3/dist/js/splide-extension-auto-scroll.min.js"> </script>
   
